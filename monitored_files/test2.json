@@ -1,0 +1,1 @@
+echo "Another test file for Aegis." > ./monitored_files/test2.log
