@@ -1,1 +1,5 @@
 venv/
+
+# Ignore personal configuration files
+config.json
+
