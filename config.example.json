@@ -1,0 +1,16 @@
+{
+  "include_paths": [
+    "/etc/",
+    "/var/log/",
+    "/var/www/",
+    "/home/aegis_user/webapp/"
+  ],
+  "exclude_patterns": [
+    "*.log",
+    "*.tmp",
+    "*.swp",
+    "*.sock",
+    "/var/log/journal/",
+    "/etc/unimportant/"
+  ]
+}
