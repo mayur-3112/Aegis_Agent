@@ -38,7 +38,7 @@ The engine is built on a professional, modular design that ensures each componen
        ├─> [ Baseline Engine ] -> Hashes file list, returns a baseline dictionary
        │
        └─> [ Integrity Engine ] -> Compares two baselines, returns a results dictionary
-
+```
 ### Development Methodology & Use of AI as a Force Multiplier
 
 The Aegis Core Engine was developed using a professional, agile, and test-driven methodology. A core component of our strategy was the disciplined use of AI-powered Large Language Models (LLMs) as a "force multiplier" to accelerate the development of boilerplate code and first-draft implementations.
