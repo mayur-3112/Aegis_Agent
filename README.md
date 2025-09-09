@@ -39,4 +39,14 @@ The engine is built on a professional, modular design that ensures each componen
        │
        └─> [ Integrity Engine ] -> Compares two baselines, returns a results dictionary
 
+### Development Methodology & Use of AI as a Force Multiplier
 
+The Aegis Core Engine was developed using a professional, agile, and test-driven methodology. A core component of our strategy was the disciplined use of AI-powered Large Language Models (LLMs) as a "force multiplier" to accelerate the development of boilerplate code and first-draft implementations.
+
+Our team operated under a strict protocol for AI-assisted development, designated "The Cyborg Engineer's Protocol":
+
+1.  **Human as Architect:** All architectural decisions, function contracts, and mission-critical logic were designed exclusively by the human engineers. The AI served as an implementation tool, not a strategic partner.
+2.  **Mandatory Code Ownership:** No line of AI-generated code was committed until the responsible engineer could explain its function, logic, and necessity in detail.
+3.  **Verification Through Testing:** All AI-assisted modules were subjected to rigorous, human-written unit tests to prove their correctness and resilience. The act of writing the test served as the final proof of the engineer's understanding and ownership.
+
+This professional, transparent, and test-driven approach allowed our team to operate at a velocity and quality level that would be unattainable through purely manual methods, enabling us to focus our human intellect on the more complex challenges of system architecture, algorithmic analysis, and experimental design.
