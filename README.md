@@ -1,4 +1,4 @@
-# 🛡️ Aegis Core Engine
+#  Aegis Core Engine
 
 A blazingly fast, command-line File Integrity Monitoring (FIM) tool built with Python and the state-of-the-art BLAKE3 cryptographic hash function.
 
