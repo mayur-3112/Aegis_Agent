@@ -1,7 +1,12 @@
-venv/
+\venv/
 
 # Ignore personal configuration files
 config.json
 
 # Python cache files
 __pycache__/
+
+
+# Ignore all JSON files (as they are temporary baselines or configs)
+*.json
+*.jon
