@@ -1,0 +1,52 @@
+[
+  {
+    "scenario": "100 files \u00d7 10KB",
+    "file_count": 100,
+    "file_size_kb": 10,
+    "blake3_time": 0.003,
+    "sha256_time": 0.0053,
+    "speedup": 1.74,
+    "throughput_blake3_kbps": 331239.57,
+    "throughput_sha256_kbps": 190365.31
+  },
+  {
+    "scenario": "500 files \u00d7 10KB",
+    "file_count": 500,
+    "file_size_kb": 10,
+    "blake3_time": 0.012,
+    "sha256_time": 0.0124,
+    "speedup": 1.03,
+    "throughput_blake3_kbps": 415107.66,
+    "throughput_sha256_kbps": 403045.18
+  },
+  {
+    "scenario": "1K files \u00d7 10KB",
+    "file_count": 1000,
+    "file_size_kb": 10,
+    "blake3_time": 0.043,
+    "sha256_time": 0.0296,
+    "speedup": 0.69,
+    "throughput_blake3_kbps": 232656.49,
+    "throughput_sha256_kbps": 337297.13
+  },
+  {
+    "scenario": "100 files \u00d7 1MB",
+    "file_count": 100,
+    "file_size_kb": 1024,
+    "blake3_time": 0.0969,
+    "sha256_time": 0.0921,
+    "speedup": 0.95,
+    "throughput_blake3_kbps": 1056532.35,
+    "throughput_sha256_kbps": 1112010.49
+  },
+  {
+    "scenario": "500 files \u00d7 1MB",
+    "file_count": 500,
+    "file_size_kb": 1024,
+    "blake3_time": 0.4125,
+    "sha256_time": 0.4331,
+    "speedup": 1.05,
+    "throughput_blake3_kbps": 1241273.5,
+    "throughput_sha256_kbps": 1182252.02
+  }
+]

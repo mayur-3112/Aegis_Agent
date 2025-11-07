@@ -4,3 +4,8 @@ packaging==25.0
 pluggy==1.6.0
 Pygments==2.19.2
 pytest==8.4.2
+rich==13.7.0
+matplotlib==3.8.2
+numpy==1.26.3
+seaborn==0.13.0
+watchdog==4.0.0

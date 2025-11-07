@@ -1,0 +1,20 @@
+{
+  "/home/kali/Aegis_Agent/test_data/file1.txt": {
+    "path": "/home/kali/Aegis_Agent/test_data/file1.txt",
+    "hash": "fc24369e3a18a36ff53fa4ea75ed4b1a25656cdd1614fde6b2bfccf99744bc92",
+    "size": 41,
+    "mtime": 1762230423.8425844
+  },
+  "/home/kali/Aegis_Agent/test_data/backdoor.sh": {
+    "path": "/home/kali/Aegis_Agent/test_data/backdoor.sh",
+    "hash": "3c3b38836ad501e755ee0894beaaf1ee9a08e1d96ab3f4ed78315b5edcbf3d3d",
+    "size": 114,
+    "mtime": 1762184518.2904966
+  },
+  "/home/kali/Aegis_Agent/test_data/config.conf": {
+    "path": "/home/kali/Aegis_Agent/test_data/config.conf",
+    "hash": "d117a07184e334ad6e4be9a016e8cda82a3f35918c6c245f63e7519623e0f7da",
+    "size": 87,
+    "mtime": 1762236261.6911657
+  }
+}

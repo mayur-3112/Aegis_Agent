@@ -1,0 +1,14 @@
+{
+    "/home/kali/Aegis_Agent/test_data/file1.txt": {
+        "path": "/home/kali/Aegis_Agent/test_data/file1.txt",
+        "hash": "26370f330be80663ddcab3293b2400e2e9c10792acf46432a71e110d30ecc4a2",
+        "size": 15,
+        "mtime": 1762164899.224789
+    },
+    "/home/kali/Aegis_Agent/test_data/config.conf": {
+        "path": "/home/kali/Aegis_Agent/test_data/config.conf",
+        "hash": "3fcfb08e3cadcb99c4ec7797eef69c128be87bbeac230566c8d4bf9a03a589a0",
+        "size": 12,
+        "mtime": 1762164899.224789
+    }
+}

@@ -1,0 +1,4 @@
+{
+  "include_paths": ["./live_demo/"],
+  "exclude_patterns": ["*.log"]
+}
